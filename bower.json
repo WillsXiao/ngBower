@@ -1,0 +1,17 @@
+{
+  "name": "bower",
+  "authors": [
+    "Jason <xzw690099892@163.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
